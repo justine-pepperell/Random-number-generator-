@@ -21,6 +21,7 @@ HTML - this will be used to create forms/input boxes
 
 CSS - this will allow the page to be styled 
 
+Server: Local web server with XAMPP
 
 # DevProjects - Random number generator web app
 
